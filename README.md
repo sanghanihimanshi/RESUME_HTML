@@ -21,3 +21,6 @@ This project is a personal resume created using HTML and styled with CSS. It sho
 ## Web View
 <img width="959" alt="Screenshot 2024-12-16 153404" src="https://github.com/user-attachments/assets/8efc7c36-6bf7-4e46-8ee0-22565c65870d" />
 <img width="959" alt="Screenshot 2024-12-16 153754" src="https://github.com/user-attachments/assets/e2226ab6-aed0-4675-adb8-9128198dfe52" />
+
+## Acknowledgments
+- Created by Sanghani Himanshi💗.
